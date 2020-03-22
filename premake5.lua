@@ -31,6 +31,7 @@ project "GLFW"
 			"src/win32_window.c",
 			"src/wgl_context.c",
 			"src/egl_context.c",
+			"src/vulkan.c",
 			"src/osmesa_context.c"
 		}
 
